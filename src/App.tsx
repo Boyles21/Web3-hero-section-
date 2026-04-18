@@ -86,13 +86,13 @@ export default function App() {
             </div>
 
             {/* Heading */}
-            <h1 className="max-w-[613px] text-[36px] lg:text-[56px] font-medium leading-[1.28] tracking-tight text-gradient">
-              Web3 at the Speed of Experience
+            <h1 className="max-w-[800px] text-[36px] lg:text-[64px] font-medium leading-[1.1] tracking-[0.15em] text-gradient uppercase">
+              AJS. THE IMMUTABLE FOUNDATION.
             </h1>
 
             {/* Subtitle */}
-            <p className="max-w-[680px] text-[15px] font-normal leading-relaxed text-white/70">
-              Powering seamless experiences and real-time connections, AJS is the base for creators who move with purpose, leveraging resilience, speed, and scale to shape the future.
+            <p className="max-w-[720px] text-[13px] lg:text-[15px] font-medium leading-relaxed text-white/70 uppercase tracking-[0.1em]">
+              THE NEXT EPOCH OF DECENTRALIZED EXPERIENCE STARTS HERE. SECURE, HIGH-PERFORMANCE INFRASTRUCTURE FOR THE SOVEREIGN WEB.
             </p>
 
             {/* CTA Button */}
