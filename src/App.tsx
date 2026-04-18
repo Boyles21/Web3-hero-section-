@@ -99,6 +99,13 @@ export default function App() {
             <PillButton variant="light" label="Join Waitlist" />
           </motion.div>
         </main>
+
+        {/* Footer */}
+        <footer className="py-8 w-full flex justify-center items-center">
+          <p className="text-white/40 text-[11px] font-medium uppercase tracking-[0.2em]">
+            Made by Boluwatife
+          </p>
+        </footer>
       </div>
     </div>
   );
