@@ -43,7 +43,7 @@ export default function App() {
                 <div className="w-3 h-[2px] bg-white rounded-full" />
               </div>
               <span className="text-white text-[20px] font-bold tracking-[0.2em] leading-none uppercase">
-                BOLU
+                AJS
               </span>
             </div>
 
@@ -92,7 +92,7 @@ export default function App() {
 
             {/* Subtitle */}
             <p className="max-w-[680px] text-[15px] font-normal leading-relaxed text-white/70">
-              Powering seamless experiences and real-time connections, BOLU is the base for creators who move with purpose, leveraging resilience, speed, and scale to shape the future.
+              Powering seamless experiences and real-time connections, AJS is the base for creators who move with purpose, leveraging resilience, speed, and scale to shape the future.
             </p>
 
             {/* CTA Button */}
